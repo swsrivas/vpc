@@ -1,6 +1,6 @@
 variable "project" {
   type = string
-  default = "prj-1804-51958669-nsvc"
+  default = "prj-0206-sw51958669sr-svc"
 }
 
 variable "region" {
