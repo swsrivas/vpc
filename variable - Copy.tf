@@ -15,7 +15,7 @@ variable "zone" {
 
 variable "vpc" {
   type = string
-  default = "demovpc"
+  default = "demovpc1"
 }
 
 variable "backsubnet" {
